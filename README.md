@@ -1,8 +1,12 @@
-# 💻 Felipe Stamboni
+# 👨‍💻 Felipe Stamboni
 
-**`Desenvolvedor Front-End `**
+**`Desenvolvedor Front-End`**
 
 Me chamo Felipe Stamboni, tenho 20 anos e moro em São Paulo, nesse exato momento estou no meu último semestre do curso de Análise e Desenvolvimento de Sistemas no ENIAC. Sou apaixonado por tecnologia.Busco aprimorar minhas habilidades e acompanhar as demandas do mercado. Sou motivado por um compromisso com inovação e aprendizagem contínua, com o objetivo de entregar soluções digitais práticas e impactantes.
+
+
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -54,7 +58,6 @@ Me chamo Felipe Stamboni, tenho 20 anos e moro em São Paulo, nesse exato moment
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Tailwind" 
@@ -72,7 +75,6 @@ Me chamo Felipe Stamboni, tenho 20 anos e moro em São Paulo, nesse exato moment
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 
-
 <img 
     align="left" 
     alt="Git" 
@@ -81,6 +83,7 @@ Me chamo Felipe Stamboni, tenho 20 anos e moro em São Paulo, nesse exato moment
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 
 <br/>
 <br/>
@@ -95,7 +98,7 @@ Me chamo Felipe Stamboni, tenho 20 anos e moro em São Paulo, nesse exato moment
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=felipestambonidev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<br>
+
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -104,4 +107,3 @@ Me chamo Felipe Stamboni, tenho 20 anos e moro em São Paulo, nesse exato moment
   />
 
 </p>
-
