@@ -103,7 +103,7 @@ Me chamo Felipe Stamboni, tenho 20 anos e moro em São Paulo, nesse exato moment
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      style="margint-top: 5px"
+      style="padding-top: 20px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipestambonidev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
